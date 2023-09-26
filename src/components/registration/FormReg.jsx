@@ -1,10 +1,5 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-// import Logo from "../assets/img/Trello-logo.png";
-// import google from "../assets/img/Google.logo.png";
-// import microsoft from "../assets/img/microsoft.logo.png";
-// import apple from "../assets/img/apple.logo.png";
-// import slack from "../assets/img/slack.logo.png";
 import { useNavigate } from "react-router-dom";
 import {  useSelector } from "react-redux";
 import Backdrop from '@mui/material/Backdrop';
